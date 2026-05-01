@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Astha Goyal 👋
+🎯 Aspiring Data Analyst
 
-<!--
-**A-1552/A-1552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working with data and building dashboards to find insights. I am currently learning and building projects using Power BI, SQL, Python and Excel.
 
-Here are some ideas to get you started:
+🛠 Skills
+Power BI
+Excel
+SQL
+Data Visualization
+Data Cleaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects
+🌦 Weather Dashboard (Power BI)
+Built a real-time dashboard using API data
+Created interactive visuals and filters
+
+👉 [View Project]
+(https://github.com/A-1552/Weather-PowerBI-Dashboard)
+
+📫 Contact
+LinkedIn: www.linkedin.com/in/
+astha-goyal
+
